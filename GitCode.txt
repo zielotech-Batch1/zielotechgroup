@@ -1,0 +1,56 @@
+git log
+  938  git remote -v
+  939  git status
+  940  git add .
+  941  ls -ltrh
+  942  git remote add BM git@github.com:zielotech-Batch1/zielotechgroup.git
+  943  git remote -v
+  944  git remote add BM https://github.com/zielotech-Batch1/zielotechgroup.git
+  945  git remote -v
+  946  git puch BM master
+  947  git push BM master
+  948  git push BM master
+  949  git remote add BM https://github.com/zielotech-Batch1/zielotechgroup.git
+  950  git remote add BN https://github.com/zielotech-Batch1/zielotechgroup.git
+  951  git push BN master
+  952  git log
+  953  git remote add BS https://github.com/zielotech-Batch3/ZielotechGroup.git
+  954  git remote -v
+  955  git push BS master
+  956  vi deploy.sh
+  957  git add .
+  958  git log
+  959  git commit -m '3rd commit'
+  960  git show
+  961  git log
+  962  git push BN master
+  963  git log
+  964  git show
+  965  git show d5478
+  966  git show --pretty='' --name-only d5478
+  967  git show --pretty='%H' --name-only d5478
+  968  git log deploy.sh
+  969  vi payment.java
+  970  git add payment.java
+  971  git status
+  972  git reset
+  973  git log
+  974  git status
+  975  git add .
+  976  vi  payment.java
+  977  git status
+  978  git commit -a -m 'commit add modify'
+  979  git status
+  980  git log
+  981  git push BN master
+  982  vi order
+  983  git status
+  984  git commit -a -m 'commit add 5th'
+  985  git add .
+  986  git log
+  987  git commit -a -m "commit add 5th"
+  988  git log
+  989  git revert fbe358
+  990  git status
+  991  git log
+  992  history
