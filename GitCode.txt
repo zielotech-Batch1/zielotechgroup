@@ -49,8 +49,8 @@ git log
   985  git add .
   986  git log
   987  git commit -a -m "commit add 5th"
-  988  git log
-  989  git revert fbe358
-  990  git status
-  991  git log
-  992  history
+    git log
+    git revert fbe358
+    git status
+    git log
+    history
